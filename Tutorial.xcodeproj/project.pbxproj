@@ -16,6 +16,15 @@
 		0EA141882A2A1A040097B890 /* TutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA141872A2A1A040097B890 /* TutorialTests.swift */; };
 		0EA141922A2A1A050097B890 /* TutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA141912A2A1A050097B890 /* TutorialUITests.swift */; };
 		0EA141942A2A1A050097B890 /* TutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA141932A2A1A050097B890 /* TutorialUITestsLaunchTests.swift */; };
+		0EA141BB2A2A1F010097B890 /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA141BA2A2A1F010097B890 /* TutorialViewController.swift */; };
+		0EA141BE2A2A1F2F0097B890 /* TutorialViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA141BC2A2A1F2F0097B890 /* TutorialViewController3.swift */; };
+		0EA141BF2A2A1F2F0097B890 /* TutorialViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA141BD2A2A1F2F0097B890 /* TutorialViewController2.swift */; };
+		0EA141C62A2A1F520097B890 /* ItemSectionCollectionView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA141C02A2A1F510097B890 /* ItemSectionCollectionView1.swift */; };
+		0EA141C72A2A1F520097B890 /* ItemSectionCollectionView3.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0EA141C12A2A1F510097B890 /* ItemSectionCollectionView3.xib */; };
+		0EA141C82A2A1F520097B890 /* ItemSectionCollectionView2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0EA141C22A2A1F510097B890 /* ItemSectionCollectionView2.xib */; };
+		0EA141C92A2A1F520097B890 /* ItemSectionCollectionView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA141C32A2A1F520097B890 /* ItemSectionCollectionView2.swift */; };
+		0EA141CA2A2A1F520097B890 /* ItemSectionCollectionView1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0EA141C42A2A1F520097B890 /* ItemSectionCollectionView1.xib */; };
+		0EA141CB2A2A1F520097B890 /* ItemSectionCollectionView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA141C52A2A1F520097B890 /* ItemSectionCollectionView3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +58,15 @@
 		0EA1418D2A2A1A050097B890 /* TutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EA141912A2A1A050097B890 /* TutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialUITests.swift; sourceTree = "<group>"; };
 		0EA141932A2A1A050097B890 /* TutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0EA141BA2A2A1F010097B890 /* TutorialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TutorialViewController.swift; path = ../../../../../CollectionView/Tutorial/TutorialViewController.swift; sourceTree = "<group>"; };
+		0EA141BC2A2A1F2F0097B890 /* TutorialViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TutorialViewController3.swift; path = ../../../../../CollectionView/Tutorial/TutorialViewController3.swift; sourceTree = "<group>"; };
+		0EA141BD2A2A1F2F0097B890 /* TutorialViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TutorialViewController2.swift; path = ../../../../../CollectionView/Tutorial/TutorialViewController2.swift; sourceTree = "<group>"; };
+		0EA141C02A2A1F510097B890 /* ItemSectionCollectionView1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ItemSectionCollectionView1.swift; path = ../../../../../../CollectionView/Tutorial/ItemSectionCollectionView1.swift; sourceTree = "<group>"; };
+		0EA141C12A2A1F510097B890 /* ItemSectionCollectionView3.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ItemSectionCollectionView3.xib; path = ../../../../../../CollectionView/Tutorial/ItemSectionCollectionView3.xib; sourceTree = "<group>"; };
+		0EA141C22A2A1F510097B890 /* ItemSectionCollectionView2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ItemSectionCollectionView2.xib; path = ../../../../../../CollectionView/Tutorial/ItemSectionCollectionView2.xib; sourceTree = "<group>"; };
+		0EA141C32A2A1F520097B890 /* ItemSectionCollectionView2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ItemSectionCollectionView2.swift; path = ../../../../../../CollectionView/Tutorial/ItemSectionCollectionView2.swift; sourceTree = "<group>"; };
+		0EA141C42A2A1F520097B890 /* ItemSectionCollectionView1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ItemSectionCollectionView1.xib; path = ../../../../../../CollectionView/Tutorial/ItemSectionCollectionView1.xib; sourceTree = "<group>"; };
+		0EA141C52A2A1F520097B890 /* ItemSectionCollectionView3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ItemSectionCollectionView3.swift; path = ../../../../../../CollectionView/Tutorial/ItemSectionCollectionView3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +117,7 @@
 		0EA1416F2A2A1A030097B890 /* Tutorial */ = {
 			isa = PBXGroup;
 			children = (
+				0EA141B72A2A1E340097B890 /* Screens */,
 				0EA141702A2A1A030097B890 /* AppDelegate.swift */,
 				0EA141722A2A1A030097B890 /* SceneDelegate.swift */,
 				0EA141742A2A1A030097B890 /* ViewController.swift */,
@@ -125,6 +144,38 @@
 				0EA141932A2A1A050097B890 /* TutorialUITestsLaunchTests.swift */,
 			);
 			path = TutorialUITests;
+			sourceTree = "<group>";
+		};
+		0EA141B72A2A1E340097B890 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				0EA141B82A2A1E760097B890 /* Tutorials */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		0EA141B82A2A1E760097B890 /* Tutorials */ = {
+			isa = PBXGroup;
+			children = (
+				0EA141BA2A2A1F010097B890 /* TutorialViewController.swift */,
+				0EA141BD2A2A1F2F0097B890 /* TutorialViewController2.swift */,
+				0EA141BC2A2A1F2F0097B890 /* TutorialViewController3.swift */,
+				0EA141B92A2A1E820097B890 /* Cells */,
+			);
+			path = Tutorials;
+			sourceTree = "<group>";
+		};
+		0EA141B92A2A1E820097B890 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				0EA141C02A2A1F510097B890 /* ItemSectionCollectionView1.swift */,
+				0EA141C42A2A1F520097B890 /* ItemSectionCollectionView1.xib */,
+				0EA141C32A2A1F520097B890 /* ItemSectionCollectionView2.swift */,
+				0EA141C22A2A1F510097B890 /* ItemSectionCollectionView2.xib */,
+				0EA141C52A2A1F520097B890 /* ItemSectionCollectionView3.swift */,
+				0EA141C12A2A1F510097B890 /* ItemSectionCollectionView3.xib */,
+			);
+			path = Cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,8 +283,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0EA1417D2A2A1A040097B890 /* LaunchScreen.storyboard in Resources */,
+				0EA141CA2A2A1F520097B890 /* ItemSectionCollectionView1.xib in Resources */,
+				0EA141C72A2A1F520097B890 /* ItemSectionCollectionView3.xib in Resources */,
 				0EA1417A2A2A1A040097B890 /* Assets.xcassets in Resources */,
 				0EA141782A2A1A030097B890 /* Main.storyboard in Resources */,
+				0EA141C82A2A1F520097B890 /* ItemSectionCollectionView2.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +312,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EA141C92A2A1F520097B890 /* ItemSectionCollectionView2.swift in Sources */,
 				0EA141752A2A1A030097B890 /* ViewController.swift in Sources */,
 				0EA141712A2A1A030097B890 /* AppDelegate.swift in Sources */,
+				0EA141BE2A2A1F2F0097B890 /* TutorialViewController3.swift in Sources */,
+				0EA141CB2A2A1F520097B890 /* ItemSectionCollectionView3.swift in Sources */,
+				0EA141BB2A2A1F010097B890 /* TutorialViewController.swift in Sources */,
 				0EA141732A2A1A030097B890 /* SceneDelegate.swift in Sources */,
+				0EA141BF2A2A1F2F0097B890 /* TutorialViewController2.swift in Sources */,
+				0EA141C62A2A1F520097B890 /* ItemSectionCollectionView1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
